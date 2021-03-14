@@ -1,5 +1,5 @@
 # Photo gallery project
-Projekt ten został przygotowany jako część kursu WWW i języki skryptowe na kierunku Teleingormatyka na AGH
+Projekt ten został przygotowany jako część kursu WWW i języki skryptowe na kierunku Teleingormatyka na AGH. Niestety obecnie projekt nie jest już nigdzie hostowany.
 # Dodawanie zdjęć
 W celu wgrania zdjęcia należy przejść do zakładki “ADD PHOTO”. Znajduje się tam pole drag&drop na które możemy przeciągnąć zdjęcie, które chcemy dodać do galerii (Rys.1). Po upuszczeniu zdjęcia w wyznaczonym polu pojawi się miniaturka zdjęcia nad formularzem(Rys. 2). Możemy również wgrać zdjęcie przez naciśnięcie pola “Choose an image file or drag it here” i wybranie odpowiedniego pliku.
 Następnie możemy dodać opis zdjęcia w polu “Description” oraz kategorie. Możemy utworzyć nową kategorię przez wpisanie jej w polu oznaczonym jako “Create own category …” lub wybrać jedną z kategorii, która już znajduje się na stronie za pomocą listy  umieszczonej pod etykietą “or choose one of this”.
